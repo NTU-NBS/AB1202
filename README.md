@@ -44,7 +44,7 @@ Since our users come from a variety backgrounds, it's very hard to label materia
 
 - **Install R workshops**
 
- [![video](http://img.youtube.com/vi/QP2bVF1JB0Q/1.jpg)](https://www.youtube.com/watch?v=QP2bVF1JB0Q#t=1m26s "Install R workshops")
+ [![video](http://img.youtube.com/vi/QP2bVF1JB0Q/1.jpg)](https://www.youtube.com/watch?v=QP2bVF1JB0Q#t=2m30s "Install R workshops")
  
 ---
 
