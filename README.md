@@ -380,13 +380,13 @@ If you are not sure about a particular use case, don't hesitate to send us an em
 
 ---
 
-**Data Science Wars: R versus Python:**
+**R vs Python for Data Science | Which Should You Learn? by [Shankar](https://www.analyticsvidhya.com/blog/author/shankar_dk/)**
 
-https://www.datasciencecentral.com/profiles/blogs/data-science-wars-r-versus-python
+https://www.analyticsvidhya.com/blog/2021/05/r-or-python-reasons-behind-this-cloud-war/
 
 ---
 
-**Data Science Road Map created by Swami Chandrasekaran:**
+**Data Science Road Map, by [Swami Chandrasekaran](https://nirvacana.com/thoughts/swamichandra/)**
 
 http://nirvacana.com/thoughts/wp-content/uploads/2018/01/RoadToDataScientist1.png
 
